@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+.container {
+  background-color: gray;
+  width: 70%;
+  height: 100%;
+  margin: 40px auto;
+  border-radius: 30px;
+}
+#section {
+  margin-top: 50px;
+}
+
+.baslik {
+  text-align: center;
+  font-size: 36px;
+  padding: 30px;
+}
+
+img {
+  display: block;
+  border-radius: 50%;
+  max-width: 80%;
+  margin: 0 auto;
+}
+#section {
+  text-align: center;
+}
+
+#section h1:hover {
+  /* display: inline; */
+  border-radius: 20px;
+  color: orange;
+}
+
+.telif:hover {
+  color: white;
+}
